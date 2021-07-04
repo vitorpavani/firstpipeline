@@ -1,0 +1,19 @@
+{
+  "name": "firstpipeline",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitorpavani/firstpipeline.git"
+  },
+  "author": "Vitor Pavan <vipavani@hotmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vitorpavani/firstpipeline/issues"
+  },
+  "homepage": "https://github.com/vitorpavani/firstpipeline#readme"
+}
